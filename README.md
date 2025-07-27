@@ -1,1 +1,1 @@
-# bike_project
+#Bike User Trend Model and Exploratory Analysis
